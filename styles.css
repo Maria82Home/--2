@@ -1,0 +1,22 @@
+h1, h2,h3{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: bisque;
+}
+aside {
+    width: 25%;
+  }
+  main1 {
+    width: 25%;
+  }
+  main2 {
+    width: 25%;
+  }
+  main3 {
+    width: 25%;
+  }
+  aside,
+  main1, main2, main3{
+    float: left;
+  }
